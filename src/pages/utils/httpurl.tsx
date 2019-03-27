@@ -1,6 +1,4 @@
-export const host = 'https://www.xiaoyuanqiang.com/'
-// 正式服务器 域名
-// export const host = 'https://www.campuswall.cn/'
+export const host = 'https://www.xx.xx/'
 export const loginUrl = host + 'api/v1/auth/login/weapp'
 export const refreshTokenUrl = host + 'api/v1/auth/refresh/token'
 export const dynamicPublishUrl = host + 'api/v1/dynamic/publish'
