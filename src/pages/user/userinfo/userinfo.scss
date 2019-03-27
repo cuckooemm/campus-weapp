@@ -1,0 +1,11 @@
+.userinfo {
+    margin: 20px 60px 40px;
+
+    &__item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 120px;
+        border-bottom: 1px solid rgb(214, 122, 218);
+      }
+}

@@ -1,0 +1,41 @@
+.item {
+    margin-top: 8px;
+}
+
+.header {
+    display: inline-flex;
+    margin-left: 14px;
+}
+
+.name{
+    margin-left: 12px;
+}
+.name view{
+    font-size: 32px;
+}
+.content {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.content text {
+    font-size: 28px;
+}
+.button-right {
+    display: flex;
+    justify-content: flex-end;
+}
+.reply-view{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.reply-view at-input{
+    width: 80%;
+}
+.reply-view at-button{
+    margin-top: 24px;
+    width: 20%;
+}

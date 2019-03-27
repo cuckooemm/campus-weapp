@@ -1,0 +1,26 @@
+.doc-header {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    height: 50px;
+  
+    &__title {
+      position: relative;
+      height: 50px;
+      color: #333;
+      font-size: 32px;
+      font-weight: bold;
+  
+      &::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        display: inline-block;
+        width: 65px;
+        height: 2PX;
+        border-radius: 1PX;
+        background-color: #6190E8;
+      }
+    }
+  }

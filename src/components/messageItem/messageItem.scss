@@ -1,0 +1,47 @@
+.message-item {
+    margin-bottom: 20px;
+}
+.header {
+    display: inline-flex;
+    margin-left: 14px;
+}
+
+.name{
+    margin-left: 12px;
+}
+.name view{
+    font-size: 32px;
+}
+.message-type {
+    margin-top: 6px;
+    margin-left: 12px;
+    font-size: 26px;
+}
+.message {
+    padding: 8px;
+    font-size: 24px;
+}
+.message text {
+    font-size: 28px;
+}
+.content view{
+    padding: 8px;
+    font-size: 24px;
+    background-color: rgb(219, 237, 251)
+}
+.button-right {
+    display: flex;
+    justify-content: flex-end;
+}
+.reply-view{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.reply-view at-input{
+    width: 80%;
+}
+.reply-view at-button{
+    margin-top: 24px;
+    width: 20%;
+}

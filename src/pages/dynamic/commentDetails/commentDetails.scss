@@ -1,0 +1,23 @@
+.comment-details{
+
+}
+.comment-buttom {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    margin-top: 20px;
+    padding-bottom: 8px;
+}
+.comment-buttom View{
+    border-top: 1PX solid rgb(214, 122, 218);
+    width: 33%;
+    text-align: center;
+    align-content: center;
+}
+
+.input-comment{
+    padding: 8px;
+    margin: 8px;
+}
